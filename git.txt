@@ -2,4 +2,4 @@ name = thanu
 DOB = 10/01/1999
 blood group = AB+
 life statuis = confusion
-
+bejaar haagtaa ide
